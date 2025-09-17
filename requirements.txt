@@ -1,0 +1,7 @@
+streamlit==1.37.1
+pandas==2.2.2
+numpy==1.26.4
+python-dotenv==1.0.1
+rapidfuzz==3.9.6
+requests==2.32.3
+deep-translator==1.11.4

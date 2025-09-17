@@ -1,0 +1,37 @@
+Id,Crop,Pest/Disease,Symptoms,Recommended Solution,Source,Language Hint
+1,Banana,Banana Bunchy Top Virus (BBTV),"Stunted growth, narrow and bunchy leaves","Use virus-free suckers, control aphid vector using neem oil or systemic insecticides",ICAR - National Research Centre for Banana,Malayalam
+2,Banana,Panama Wilt (Fusarium oxysporum),"Yellowing and wilting of older leaves, pseudostem splitting","Use resistant varieties, treat soil with Trichoderma, avoid waterlogging",Kerala Agriculture Dept,Malayalam
+3,Banana,Sigatoka Leaf Spot,Yellow streaks on leaves turning into brown spots,"Remove affected leaves, apply carbendazim or propiconazole sprays",KAU Plant Protection Advisory,Malayalam
+4,Banana,Banana Weevil,"Tunnels in pseudostem, plant weakening","Use clean suckers, apply neem cake, pheromone traps for adults",ICAR CPCRI,Malayalam
+5,Banana,Banana Aphid,"Colonies at leaf axils, curling leaves","Spray neem oil 5%, avoid excessive nitrogen",Kerala Agri Portal,Malayalam
+6,Paddy,Brown Planthopper,"Hopper burn patches, yellowing leaves","Maintain optimum spacing, spray imidacloprid",ICAR - Directorate of Rice Research,Malayalam
+7,Paddy,Rice Blast,"Diamond-shaped lesions on leaves, neck rot","Use resistant varieties, spray tricyclazole",KAU Rice Research Station,Malayalam
+8,Paddy,Bacterial Leaf Blight,"Yellowing from tip downwards, wilting seedlings","Soak seeds in streptocycline, avoid high urea dose",Kerala Agriculture Dept,Malayalam
+9,Paddy,Gall Midge,"Silver shoots, gall formation","Use resistant varieties, apply fipronil",ICAR - CRRI,Malayalam
+10,Paddy,Stem Borer,"Dead hearts, white ear heads","Clip seedling tips, use tricho cards, spray cartap hydrochloride",Kerala Agri Portal,Malayalam
+11,Coconut,Rhinoceros Beetle,"Holes in fronds, chewed leaves","Install pheromone traps, apply neem cake in crown",CPCRI,Malayalam
+12,Coconut,Red Palm Weevil,"Oozing from trunk, tunnels, frond yellowing","Destroy infested palms, use pheromone traps, stem injection with carbaryl",Kerala Agri Dept,Malayalam
+13,Coconut,Bud Rot (Phytophthora),"Rotting of spindle leaf, foul smell","Remove infected tissue, apply Bordeaux paste, improve drainage",ICAR CPCRI,Malayalam
+14,Coconut,Stem Bleeding,"Brown exudation on trunk, yellowing leaves","Scrape infected area, apply hexaconazole, improve aeration",Kerala Agriculture Dept,Malayalam
+15,Coconut,Eriophyid Mite,"Button nuts blackened, immature nut drop","Spray neem oil garlic emulsion, root feeding with azadirachtin",KAU Advisory,Malayalam
+16,Black Pepper,Quick Wilt (Phytophthora foot rot),"Sudden wilting of vines, root rot","Apply Bordeaux mixture, improve drainage",ICAR IISR,Malayalam
+17,Black Pepper,Pollu Beetle,"Berries with boreholes, drying","Spray quinalphos, destroy infested berries",Kerala Agri Dept,Malayalam
+18,Black Pepper,Anthracnose,Dark sunken lesions on leaves and spikes,"Spray copper oxychloride, maintain field sanitation",KAU,Malayalam
+19,Black Pepper,Nematodes (Root knot),"Poor growth, yellowing leaves, root galls","Apply neem cake, bioagents like Paecilomyces",ICAR IISR,Malayalam
+20,Black Pepper,Leaf Spot,Brown circular spots with yellow halo,Spray mancozeb or copper fungicides,Kerala Agriculture Dept,Malayalam
+21,Tapioca,Cassava Mosaic Virus,"Mottled, twisted leaves","Use virus-free cuttings, rogue infected plants",ICAR-CTCRI,Malayalam
+22,Tapioca,Spiralling Whitefly,"Sooty mould on leaves, honeydew secretion","Release Encarsia parasitoids, spray neem oil",Kerala Agri Dept,Malayalam
+23,Tapioca,Tuber Rot,"Rotting tubers in soil, yellowing plants","Improve drainage, treat cuttings with fungicide",CTCRI,Malayalam
+24,Tapioca,Red Spider Mite,"Leaf yellowing, webbing on underside","Spray dicofol, maintain field hygiene",Kerala Agri Dept,Malayalam
+25,Tapioca,Mealybug,"White cottony masses, leaf curling","Spray neem oil, encourage predators like ladybird beetles",ICAR CTCRI,Malayalam
+26,Tomato,Tomato Leaf Curl Virus,"Curling leaves, stunted growth","Use virus-free seedlings, control whiteflies",ICAR IIHR,Malayalam
+27,Tomato,Fruit Borer,"Boreholes on fruits, internal feeding","Install pheromone traps, spray spinosad",Kerala Agri Portal,Malayalam
+28,Tomato,Early Blight,Concentric brown spots on leaves,Spray mancozeb or chlorothalonil,KAU,Malayalam
+29,Brinjal,Shoot and Fruit Borer,"Holes in shoots and fruits, drying shoots","Remove infested shoots, spray emamectin benzoate",ICAR IIHR,Malayalam
+30,Brinjal,Jassids,Yellowing and curling of leaves,Spray neem seed kernel extract or imidacloprid,Kerala Agri Dept,Malayalam
+31,Chilli,Thrips,"Leaf curling, distorted growth",Spray fipronil or neem oil,ICAR IIHR,Malayalam
+32,Chilli,Anthracnose,Dark sunken lesions on fruits,Spray carbendazim + mancozeb,KAU Plant Pathology,Malayalam
+33,Chilli,Leaf Curl Virus,Severe curling and stunting,"Use resistant varieties, control whitefly vector",Kerala Agriculture Dept,Malayalam
+34,Okra,Yellow Vein Mosaic Virus,"Yellow veins on leaves, poor fruiting","Use virus-free seeds, spray neem oil against whitefly",ICAR IIHR,Malayalam
+35,Okra,Fruit Borer,Boreholes in okra fruits,"Use pheromone traps, spray neem-based insecticides",Kerala Agri Portal,Malayalam
+36,Okra,Powdery Mildew,White powdery patches on leaves,Spray wettable sulphur,KAU,Malayalam
